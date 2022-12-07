@@ -10,6 +10,7 @@ class Motor {
 
 
     // Area dos metodos
+    
     public void acelerar(){
         rpm +=1000;
         System.out.println("RPM: "+rpm);

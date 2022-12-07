@@ -11,7 +11,7 @@ public class Main {
         System.out.println("RPM do Motor");
         System.out.println(" ");
 
-
+     // Metodos
         motor1.acelerar();
         motor1.acelerar();
         motor1.acelerar();

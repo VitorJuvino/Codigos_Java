@@ -34,7 +34,6 @@ public class Main {
         System.out.println(ut2.getNota1());
         System.out.println(ut2.getNota2());
 
-
     }
 
 }
